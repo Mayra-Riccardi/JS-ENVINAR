@@ -36,7 +36,7 @@ function agregarAListaDeDeseos(vinoNuevo){
             icon: 'success',
             title: 'Vino '+ vinoNuevo.nombre + " " + vinoNuevo.cosecha + ' ha sido agregado tu lista de deseos'
           }).then((result) => {
-                window.location="../views/carrito.html";
+                window.location="views/carrito.html";
             })
             sessionStorage.setItem('carrito',JSON.stringify(carrito))
     } else {
