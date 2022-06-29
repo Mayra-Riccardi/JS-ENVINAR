@@ -1,0 +1,421 @@
+.bg-light {
+  background-color: #7A074C!important;
+}
+
+.navbar {
+  background-color: #7A074C; }
+  .navbar .logo {
+    width: 50px; }
+
+.navbar .navbar-collapse .nav-link {
+    color: white; }
+
+footer {
+  background-color: #7A074C; }
+  footer .logo {
+    width: 50px;
+    margin-left: 30px;
+    margin-top: 15px; }
+  footer h3.envinar {
+    color: white;
+    font-family: 'Rubik';
+    margin-left: 10px;
+    margin-top: 10px; }
+  footer p.links {
+    color: white;
+    font-family: 'Rubik';
+    margin-left: 10px; }
+  footer a {
+    color: #d8d0d0;
+    font-family: 'Rubik'; }
+  footer .p-redes {
+    color: #d8d0d0;
+    font-family: 'Rubik'; }
+  footer p {
+    color: #d8d0d0;
+    font-family: 'Rubik'; }
+  footer h4 {
+    color: white;
+    font-family: 'Rubik'; }
+  footer .footer-redes-sociales {
+    margin-top: 15px; }
+  footer .footer-redes-icon {
+    margin-bottom: 20px;
+    margin-top: 20px; }
+  footer a img {
+    margin-right: 10px; }
+  footer i p {
+    margin-top: 20px; }
+  footer div .footer-about {
+    margin-top: 15px; }
+  footer .footer-about p {
+    margin-top: 30px; }
+
+footer {
+  overflow: hidden; }
+
+  div .row.no-gutters {
+    padding-left: 25px;
+  }
+
+  .btn-outline-primary{
+  color: #3d077a;
+  background-color: #fddcdc3b;
+  border-color: #FDDCDC;
+}
+
+.btn-secondary {
+  color: #fff;
+  background-color: #7a074c;
+  border-color: #7a074c;
+}
+
+.show>.btn-secondary.dropdown-toggle {
+  color: #fff;
+  background-color: #7a074c;
+  border-color: #7a074c;
+}
+
+.btn-secondary:focus {
+  color: #fff;
+  background-color: #7a074c;
+  border-color: #7a074c;
+}
+.btn-secondary:hover {
+  color: #fff;
+  background-color: #7a074ce5;
+  border-color: #7a074c;
+}
+.form-control my-2{
+  background-color: #FDDCDC;
+}
+
+
+.form-control {
+  background-color:rgb(255, 240, 240);
+  border-radius: 20px;
+  border-color: #FDDCDC;
+  color: #3d077a;
+}
+
+
+.list-group-item{
+  background-color: #fddcdc1c;
+}
+
+
+.btn-outline-primary:hover {
+  color: #fff;
+  background-color: #7a074ce5;
+  border-color: #7a074c;
+}
+
+.btn-outline-primary:not(:disabled):not(.disabled).active{
+  color: #fff;
+    background-color: #7a074c;
+    border-color: #7a074c;
+}
+
+.btn-outline-primary.active:focus{
+background-color: #7a074c;
+border-color: #7a074c;
+box-shadow:#7A074C;
+}
+
+.dropdown-item {
+  color: #3d077a;
+}
+
+ .th{
+   color: #7A074C;
+   font: weight 800px;;
+   font-style:italic;
+ }
+
+ .td{
+   color: #211866;
+   font-size: smaller;
+   font-weight: 500;
+ }
+
+ main .row div .jumbotron .dib {
+  margin-left: 0px; }
+
+  main {
+  padding-bottom: 50px; }
+  p .p-redes {
+    margin-left: 10px; }
+  div .redes {
+    margin-left: 10px; }
+  .texto {
+    margin-left: 10px; }
+  .leyenda2 {
+    margin-left: 10px; }
+  .leyenda {
+    margin-left: 10px; } 
+
+footer .footer-about p {
+  margin-top: 10px; }
+
+main {
+  background-color: #fddcdc42;
+  overflow: hidden; }
+  main .row {
+    align-items: center;
+    }
+    main .row h1 {
+      color: #7A074CE5;
+      font-family: Rubik;
+      font-size: 33px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 18px;
+      letter-spacing: -0.01em;
+      display: flex;
+      padding: 60px;
+      padding-bottom: 40px;
+      justify-content: center;
+      line-height: 35px; }
+    main .row h3 {
+      color: #7A074CE5;
+      font-family: Rubik;
+      font-size: 27px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 18px;
+      letter-spacing: -0.01em;
+      text-align: left;
+      padding: 50px;
+      padding-bottom: 20px;
+      padding-left: 10px; }
+    main .row p {
+      color: #211866;
+      font-family: Rubik;
+      font-size: 14px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 20px;
+      letter-spacing: 0.25px;
+      text-align: left; }
+    main .row h5 {
+      color: #211866;
+      font-family: Rubik;
+      font-size: 20px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 18px;
+      letter-spacing: -0.01em;
+      text-align: left;
+      margin-left: -16px; }
+    main .row .img-eventos {
+      border-radius: 70px; }
+    main .row .img-evento {
+      border-radius: 35px;
+      width: 549px; }
+    main .row div .jumbotron {
+      background-color: #FDDCDC; }
+      main .row div .jumbotron .dib {
+        margin-left: 150px; }
+  main .row {
+    justify-content: center; }
+    a {
+      color: #3d077a;
+      text-decoration: none;
+      background-color: transparent;
+  }
+
+
+.card {
+    background-color: #FDDCDC;
+    justify-content: flex-end;
+    text-align: mqp-get((background-color #FDDCDC, centro flex-end, text-align center, align-items center), text-align);
+    align-items: stretch; }
+
+div .img-card:hover {
+      transform: translateY(20px);
+}
+
+div .formulario {
+  width: 400px;
+  background-color: #FDDCDC;
+  padding: 30px;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  border-radius: 4px; }
+div .formulario .controles {
+    width: 300px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid white; }
+div .formulario .mas-info {
+    font-weight: 700; }
+div .formulario .opc {
+    margin-bottom: 0px; }
+div .formulario .comentario {
+    margin-top: 20px;
+    font-weight: 700; }
+
+
+    section .seccion-busqueda{
+      padding-top: 20px;
+    }
+
+    .table td, .table th {
+      animation: none;
+      padding: 0.75rem;
+      vertical-align: middle;
+      vertical-align: none;
+      border-top: 1px solid #dee2e6;
+      padding-left: 40px;
+}
+
+h5{
+  font-style: italic;
+}
+.dropdown-menu {
+  min-width: 9rem;
+  padding: 0px;
+  background-color: white;
+}
+
+
+
+
+/* MEDIAS QUERIS */
+@media only screen and (max-width: 768px) {
+  .cards-padding {
+    padding-left: 50px; }
+  .img-card{
+    margin-left: 35%;
+  }
+  .map-responsive {
+    overflow: hidden;
+    padding-bottom: 70%;
+    position: relative;
+    height: 0; }
+  .map-responsive iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute; }
+  main .row h1 {
+    color: #7A074CE5;
+    font-family: Rubik;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 18px;
+    letter-spacing: -0.01em;
+    display: flex;
+    padding: 10px;
+    padding-bottom: 0px;
+    justify-content: center;
+    line-height: 35px;
+    margin: 20px; }
+  main .row {
+    margin-left: 0px;
+    padding-bottom: 0px; 
+    margin-right: 0px;
+  } 
+  main .row h3 {
+      color: #7A074CE5;
+      font-family: Rubik;
+      font-size: 15px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 18px;
+      letter-spacing: -0.01em;
+      text-align: left;
+      padding: 34px;
+      padding-bottom: 20px;
+      padding-left: 0px;
+     }
+
+    .btn-group-toggle{
+      flex-direction: column;
+    }
+
+    h2{
+      font-size: 25px;
+    }
+
+
+  div .formulario{
+    padding-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  .formularioLogin{
+    overflow: hidden;
+  }
+  .container-fluid{
+    overflow: hidden;
+  }
+
+  .formularioRegistroUsuario{
+    overflow: hidden;
+  }
+main{
+  overflow: hidden;
+}
+
+.btn-outline-success{
+  margin-bottom: 10px;
+}
+
+main{
+  padding-bottom: 0%;
+}
+.foto-vino{
+  width: 100px;
+  margin-left: 35%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.boton-responsive{
+  margin-bottom: 25px;
+}
+
+.row-titulos{
+  margin-left: 15%;
+}
+
+.row-h5 h5{
+  margin-left: 15px;
+}
+button#dropdownMenuButton{
+  margin-left: -15px;
+}
+
+}
+
+ 
+
+
+@media only screen and (min-width: 1024px) {
+  div .row .destacado {
+    margin-left: 100px; } 
+
+form#seccion-busqueda {
+  padding-top: 0px;
+  padding-left: 40px;
+    }
+div .BN H3{
+  padding-left: 48px;
+}
+
+section#cards2{
+  margin-left: 60px;
+}
+.navbar .navbar-collapse {
+  justify-content: center;
+  margin-top: 93px;
+  margin-left: 363px;
+}
+
+}
