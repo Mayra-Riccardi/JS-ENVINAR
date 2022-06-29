@@ -42,7 +42,7 @@ botonCerrarSesion.onclick = () => {
             title:'Hasta pronto',
             icon:'success',
         })
-          window.location="../index.html"
+          window.location="index.html"
         }
       })
     
